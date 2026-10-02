@@ -32,3 +32,7 @@ A collection of peripheral control drivers, signal processing routines, and actu
 * Measures echo pulse width using `pulseIn` to calculate obstacle distance:
 ```text
 Distance (cm) = (Duration * 0.034) / 2
+```
+## 👤 Author
+* **Dağhan Özdemir** - [GitHub Profile](https://github.com/daghanozdemir24)
+
